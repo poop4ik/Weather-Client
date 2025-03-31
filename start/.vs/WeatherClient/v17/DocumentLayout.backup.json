@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Univer\\WeatherClient\\start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|e:\\.univer\\weatherclient\\start\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|e:\\.univer\\weatherclient\\start\\converters\\weatherconditiontoimageconverter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|solutionrelative:converters\\weatherconditiontoimageconverter.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|e:\\.univer\\weatherclient\\start\\weatherclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|solutionrelative:weatherclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|e:\\.univer\\weatherclient\\start\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4829D4F4-EB52-4A0D-8321-0757110586F0}|WeatherClient.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherClient",
+              "DocumentMoniker": "E:\\.Univer\\WeatherClient\\start\\WeatherClient.csproj",
+              "RelativeDocumentMoniker": "WeatherClient.csproj",
+              "ToolTip": "E:\\.Univer\\WeatherClient\\start\\WeatherClient.csproj",
+              "RelativeToolTip": "WeatherClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T19:56:19.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "E:\\.Univer\\WeatherClient\\start\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "E:\\.Univer\\WeatherClient\\start\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T19:41:33.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherConditionToImageConverter.cs.cs",
+              "DocumentMoniker": "E:\\.Univer\\WeatherClient\\start\\Converters\\WeatherConditionToImageConverter.cs.cs",
+              "RelativeDocumentMoniker": "Converters\\WeatherConditionToImageConverter.cs.cs",
+              "ToolTip": "E:\\.Univer\\WeatherClient\\start\\Converters\\WeatherConditionToImageConverter.cs.cs",
+              "RelativeToolTip": "Converters\\WeatherConditionToImageConverter.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:57:22.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "E:\\.Univer\\WeatherClient\\start\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "E:\\.Univer\\WeatherClient\\start\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:42:45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
